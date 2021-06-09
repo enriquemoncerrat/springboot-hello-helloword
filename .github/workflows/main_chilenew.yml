@@ -49,5 +49,5 @@ jobs:
       with:
         app-name: 'chilenew'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_21f4889b2b6d42f791a66fc996eb99bd }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_58131bdfc5a1465db826460646001f7d }}
         package: '*.jar'
